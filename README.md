@@ -7,6 +7,8 @@ A theory for a new method for fast learning.
 4. Have interactive "instrutions" to have the learners understand.
 
 "Instructions" could be many different things, from non-objects to objects.
-Read 
+
+Read:
 1. Sensation and Perception international 5th edition from Jeremy M. Wolfe
 2. Manipulation - 6 Manuscripts: Mind Control, Hypnosis, Manipulation, How to Analyze People, How to Secretly Manipulate People, Human. from Leonard Moore.
+3. About neuro linguistic programming and its techniques.
