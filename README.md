@@ -15,5 +15,4 @@ Read:
 4. About neurology.
 5. About neuropsychology.
 6. Neuroscience international 6th from Dale, George, David, William, Anthony, Richard, Michael and Leonard.
-About neurology.
-About mentalization.
+7. About mentalization.
