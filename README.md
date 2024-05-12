@@ -16,3 +16,5 @@ Read:
 5. About neuropsychology.
 6. Neuroscience international 6th from Dale, George, David, William, Anthony, Richard, Michael and Leonard.
 7. About mentalization.
+8. About physiology.
+9. About neuropedagogy.
