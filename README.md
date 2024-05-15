@@ -4,7 +4,7 @@ A theory for a new method for fast learning.
 1. Make a set of "instructions" for the brain.
 2. Use the "instructions" to make plan of sets for learning topics.
 3. play, and replay if necessary, to make others learn the sets for a topic, which consists of "instructions" and more.
-4. Have interactive "instrutions" to have the learners understand.
+4. Have interactive "instructions" to have the learners understand.
 
 "Instructions" could be many different things, from non-objects to objects.
 
